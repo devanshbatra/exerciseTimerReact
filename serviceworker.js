@@ -2,16 +2,7 @@ const Cache_name = "version_1";
 const PAGES = [
     "/static/css/main.296b52d9.chunk.css",
     "/static/js/main.9aea91de.chunk.js",
-    "/static/js/main.9aea91de.chunk.js.map",
-    "/static/js/runtime-main.cf147236.js",
-    "/static/js/runtime-main.cf147236.js.map",
-    "/static/js/2.b6dcfcd1.chunk.js",
-    "/static/js/2.b6dcfcd1.chunk.js.map",
-    "/static/js/3.048f9a0e.chunk.js",
-    "/static/js/3.048f9a0e.chunk.js.map",
     "/index.html",
-    "/static/css/main.296b52d9.chunk.css.map",
-    "/static/js/2.b6dcfcd1.chunk.js.LICENSE.txt",
     "/static/media/perc-hollow.56a8f67f.wav",
     "/static/media/ride-acoustic02.44e63854.wav"
 ];
