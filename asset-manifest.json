@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/exerciseTimerReact/static/css/main.296b52d9.chunk.css",
-    "main.js": "/exerciseTimerReact/static/js/main.9aea91de.chunk.js",
-    "main.js.map": "/exerciseTimerReact/static/js/main.9aea91de.chunk.js.map",
-    "runtime-main.js": "/exerciseTimerReact/static/js/runtime-main.1144a1f1.js",
-    "runtime-main.js.map": "/exerciseTimerReact/static/js/runtime-main.1144a1f1.js.map",
-    "static/js/2.b6dcfcd1.chunk.js": "/exerciseTimerReact/static/js/2.b6dcfcd1.chunk.js",
-    "static/js/2.b6dcfcd1.chunk.js.map": "/exerciseTimerReact/static/js/2.b6dcfcd1.chunk.js.map",
-    "static/js/3.048f9a0e.chunk.js": "/exerciseTimerReact/static/js/3.048f9a0e.chunk.js",
-    "static/js/3.048f9a0e.chunk.js.map": "/exerciseTimerReact/static/js/3.048f9a0e.chunk.js.map",
-    "index.html": "/exerciseTimerReact/index.html",
-    "static/css/main.296b52d9.chunk.css.map": "/exerciseTimerReact/static/css/main.296b52d9.chunk.css.map",
-    "static/js/2.b6dcfcd1.chunk.js.LICENSE.txt": "/exerciseTimerReact/static/js/2.b6dcfcd1.chunk.js.LICENSE.txt",
-    "static/media/perc-hollow.56a8f67f.wav": "/exerciseTimerReact/static/media/perc-hollow.56a8f67f.wav",
-    "static/media/ride-acoustic02.44e63854.wav": "/exerciseTimerReact/static/media/ride-acoustic02.44e63854.wav"
+    "main.css": "/devanshbatra.github.io/exerciseTimerReact/static/css/main.296b52d9.chunk.css",
+    "main.js": "/devanshbatra.github.io/exerciseTimerReact/static/js/main.9aea91de.chunk.js",
+    "main.js.map": "/devanshbatra.github.io/exerciseTimerReact/static/js/main.9aea91de.chunk.js.map",
+    "runtime-main.js": "/devanshbatra.github.io/exerciseTimerReact/static/js/runtime-main.f413ff8c.js",
+    "runtime-main.js.map": "/devanshbatra.github.io/exerciseTimerReact/static/js/runtime-main.f413ff8c.js.map",
+    "static/js/2.b6dcfcd1.chunk.js": "/devanshbatra.github.io/exerciseTimerReact/static/js/2.b6dcfcd1.chunk.js",
+    "static/js/2.b6dcfcd1.chunk.js.map": "/devanshbatra.github.io/exerciseTimerReact/static/js/2.b6dcfcd1.chunk.js.map",
+    "static/js/3.048f9a0e.chunk.js": "/devanshbatra.github.io/exerciseTimerReact/static/js/3.048f9a0e.chunk.js",
+    "static/js/3.048f9a0e.chunk.js.map": "/devanshbatra.github.io/exerciseTimerReact/static/js/3.048f9a0e.chunk.js.map",
+    "index.html": "/devanshbatra.github.io/exerciseTimerReact/index.html",
+    "static/css/main.296b52d9.chunk.css.map": "/devanshbatra.github.io/exerciseTimerReact/static/css/main.296b52d9.chunk.css.map",
+    "static/js/2.b6dcfcd1.chunk.js.LICENSE.txt": "/devanshbatra.github.io/exerciseTimerReact/static/js/2.b6dcfcd1.chunk.js.LICENSE.txt",
+    "static/media/perc-hollow.56a8f67f.wav": "/devanshbatra.github.io/exerciseTimerReact/static/media/perc-hollow.56a8f67f.wav",
+    "static/media/ride-acoustic02.44e63854.wav": "/devanshbatra.github.io/exerciseTimerReact/static/media/ride-acoustic02.44e63854.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.1144a1f1.js",
+    "static/js/runtime-main.f413ff8c.js",
     "static/js/2.b6dcfcd1.chunk.js",
     "static/css/main.296b52d9.chunk.css",
     "static/js/main.9aea91de.chunk.js"
