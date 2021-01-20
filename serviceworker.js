@@ -1,7 +1,7 @@
 const Cache_name = "version_1";
 const PAGES = [
-    "/static/css/main.296b52d9.chunk.css",
-    "/static/js/main.9aea91de.chunk.js",
+    "/main.css",
+    "/main.js",
     "/index.html",
     "/static/media/perc-hollow.56a8f67f.wav",
     "/static/media/ride-acoustic02.44e63854.wav"
