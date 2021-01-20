@@ -1,10 +1,16 @@
 const Cache_name = "version_1";
 const PAGES = [
-    "/main.css",
-    "/main.js",
+    // "/static/js/bundle.js",
+    // "/static/js/0.chunk.js",
+    // "/static/js/main.chunk.js",
+    "/static/js/main.9aea91de.chunk.js",
+    "/static/js/2.b6dcfcd1.chunk.js",
+    "/static/css/main.296b52d9.chunk.css",
+    "/logo.png",
     "/index.html",
+    "/",
     "/static/media/perc-hollow.56a8f67f.wav",
-    "/static/media/ride-acoustic02.44e63854.wav"
+    "/static/media/ride-acoustic02.44e63854.wav",
 ];
 
 // installing the service worker
